@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MAC OS
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+config.py
