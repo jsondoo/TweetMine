@@ -1,6 +1,6 @@
 # TweetMine
 
-Analyzing tweets using PANDAS.
+Analyzing tweets using pandas.
 
 # Usage
 
@@ -17,3 +17,15 @@ To install [PANDAS](http://pandas.pydata.org)
 $ pip install pandas
 ```
 
+# Notes
+REFERENCES:
+[10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+[Text mining example](http://blog.coderscrowd.com/twitter-hashtag-data-analysis-with-python/)
+
+TODO:
+Top 10 tweets
+Generate word cloud
+Top followers (most famous, most interactions)
+
+Generate a full analytics page
+Compare different users
