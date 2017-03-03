@@ -20,12 +20,13 @@ $ pip install pandas
 ```
 
 # Images
+Here are some sample iamges...
 <img src = 'http://i.imgur.com/e9t9kSx.jpg' />
 <img src = 'http://i.imgur.com/vL6m4ny.jpg' />
 
-# TODO
-Top 10 tweets
-Generate a word cloud
-Top followers (most famous, most interactions)
-Generate a full analytics page
-Compare different users
+# Todo
+- [ ] display top 10 tweets
+- [ ] display top followers
+- [ ] generate a word cloud
+- [ ] generate a full analytics page
+- [ ] compare multiple users
