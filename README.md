@@ -1,6 +1,6 @@
 # TweetMine
 
-Analyzing tweets using pandas.
+Analyzing tweets using [pandas](http://pandas.pydata.org)
 
 # Usage
 
@@ -14,7 +14,7 @@ To install [tweepy](http://www.tweepy.org)
 $ pip install tweepy==3.5.0
 ```
 
-To install [PANDAS](http://pandas.pydata.org)
+To install [pandas](http://pandas.pydata.org)
 ```
 $ pip install pandas
 ```
@@ -25,8 +25,6 @@ Here are some sample iamges...
 <img src = 'http://i.imgur.com/vL6m4ny.jpg' />
 
 # Todo
-- [ ] display top 10 tweets
-- [ ] display top followers
 - [ ] generate a word cloud
-- [ ] generate a full analytics page
+- [ ] refactor into a full analytics page
 - [ ] compare multiple users
