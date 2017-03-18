@@ -19,8 +19,7 @@ To install [pandas](http://pandas.pydata.org)
 $ pip install pandas
 ```
 
-# Images
-Here are some sample iamges...
+# Examples
 <img src = 'http://i.imgur.com/e9t9kSx.jpg' />
 <img src = 'http://i.imgur.com/vL6m4ny.jpg' />
 
